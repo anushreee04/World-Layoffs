@@ -1,40 +1,35 @@
-# World-Layoffs
-
-# Data-Professional-Survey-  
-
+# Global-Layoffs
 
 ---
 
 ## 🎯 Objective
 
 
-The objective of this dashboard, titled "Data Professional Survey Breakdown" is to present a visual summary of survey responses from data professionals across different countries. It aims to provide insights into:  
-1. Demographic distribution of survey participants  
-2. Job-related factors such as salary and job titles  
-3. Challenges faced entering the data field  
-4. Preferences in programming languages  
-5. Overall job satisfaction in terms of work-life balance and salary  
+The objective of this Project is to identify and visualise global workforce disruptions by analysing layoff trends across industries, companies, countries, and time. It aims to help stakeholders understand patterns in job reductions, identify which sectors and regions are most impacted, and assess the role of major companies in contributing to global layoffs.
+
 
 
 ---
 
 ## 🛠️ Tools Used
 
-| Tool         | Purpose                                                |
-|--------------|--------------------------------------------------------|
-| **Power BI** | Data Cleaning and Interactive dashboard development    |
+| Tool         | Purpose                                 |
+|--------------|-----------------------------------------|
+| **Excel**    | Raw data extraction                     |
+| **SQL**      | Data cleaning, querying and aggregations|
+| **Power BI** | Interactive dashboard development       |
+
 
 ---
 
 ## 📊 Key Insights
 
-Sure! Here are 3–4 concise one-liner key insights:  
+1. January tops layoffs (~100 K) with a second surge in November.  
+2. Consumer and Retail lead industry cuts at ~40 K each.  
+3. Amazon (18 K) is the single‑largest contributor, trailed by Google and Meta.  
+4. United States, India, and the Netherlands are the most‑affected countries.  
 
-1. **Python** is the most preferred programming language among data professionals.  
-2. **Data Scientists and Data Engineers** earn the highest average salaries.  
-3. **43%** found it neither easy nor difficult to break into the data field.  
-4. **Salary satisfaction** is relatively low at **4.27 out of 10**, despite moderate work-life balance.  
-
+Mass layoffs span regions and sectors, underscoring widespread workforce disruption.
 
 ---
 
